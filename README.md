@@ -3,6 +3,9 @@
 # Dev_Setup
 Setup Development Environment
 
+The following is answer of the assigment in google doc below
+https://docs.google.com/document/d/1m2Auca1IqBV303GgeedE6bH_8JI41d4sG4ycts-HPGs/edit?usp=sharing
+
 #Assignment: Setting Up Your Developer Environment
 
 #Objective:
